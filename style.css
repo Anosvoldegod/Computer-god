@@ -237,7 +237,7 @@ body {
 
 .sidebar {
     border-radius: 5px;
-    padding: 10px;
+    padding: 5px;
     display: grid;
     gap: 10px;
 }
@@ -245,18 +245,18 @@ body {
 .sidebar h3 {
     color: #fff;
     margin-left: 1rem;
-    padding: 1vh 0 3vh 0;
+    padding: 2px;
 }
 
 .movie {
     background-color: #37375a;
-    padding: 20px;
+    padding: 5px;
     border-radius: 7px;
 }
 
 .recomendations {
     background-color: #3b4275;
-    padding: 20px;
+    padding: 10px;
     border-radius: 7px;
 }
 
